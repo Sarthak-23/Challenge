@@ -25,7 +25,9 @@ const HomePage = () => {
     <>
       <Navbar bg="dark" variant="dark" fixed="top">
         <Container>
-          <Navbar.Brand href="/shopify-challenge/">Spacestagram</Navbar.Brand>
+          <Navbar.Brand href="https://sarthak-23.github.io/shopify-challenge/">
+            Spacestagram
+          </Navbar.Brand>
           <Form className="d-flex justify-content-end">
             <FormControl
               type="title"
