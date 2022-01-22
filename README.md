@@ -21,4 +21,4 @@ A Web Application build as a part of shopify-challenge.
 
 # Live Website
 
-- You can view the Application live [here](https://sarthak-23.github.io/shopify-challenge/)
+- You can view the Application live [here](https://sarthak-23.github.io/Challenge)
